@@ -1,0 +1,10 @@
+{
+  "Name": "ThreeArmedBandit",
+  "ReferencesAndLinks": ["pending"],
+  "Authors": [
+    "Ethan Campbell",
+    "James F Cavanagh"
+  ],
+  "License": "",
+  "BIDSVersion": "1.1.1"
+}
