@@ -1,0 +1,1402 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+93.3740000000	n/a	n/a	Fixation	n/a	n/a	S  1
+94.1200000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+95.7140000000	n/a	n/a	No Response	n/a	n/a	S 99
+96.0260000000	n/a	n/a	FB: No Resp	n/a	n/a	S199
+97.1100000000	n/a	n/a	Fixation	n/a	n/a	S  1
+97.9120000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+98.7100000000	n/a	n/a	Right Button	n/a	n/a	S  2
+98.9820000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+100.0620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+100.9040000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+101.8260000000	n/a	n/a	Left Button	n/a	n/a	S  3
+102.0400000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+103.1140000000	n/a	n/a	Fixation	n/a	n/a	S  1
+103.9260000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+104.8140000000	n/a	n/a	Up Button	n/a	n/a	S  4
+104.9880000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+106.0660000000	n/a	n/a	Fixation	n/a	n/a	S  1
+106.8380000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+107.9100000000	n/a	n/a	Right Button	n/a	n/a	S  2
+108.0740000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+109.1520000000	n/a	n/a	Fixation	n/a	n/a	S  1
+109.9440000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+110.6980000000	n/a	n/a	Right Button	n/a	n/a	S  2
+110.8620000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+111.9380000000	n/a	n/a	Fixation	n/a	n/a	S  1
+112.7200000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+113.2940000000	n/a	n/a	Left Button	n/a	n/a	S  3
+113.4800000000	n/a	n/a	FB: Win	n/a	n/a	S201
+114.5560000000	n/a	n/a	Fixation	n/a	n/a	S  1
+115.3980000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+116.0740000000	n/a	n/a	Left Button	n/a	n/a	S  3
+116.3380000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+117.4080000000	n/a	n/a	Fixation	n/a	n/a	S  1
+118.1500000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+118.6180000000	n/a	n/a	Up Button	n/a	n/a	S  4
+118.8320000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+119.9100000000	n/a	n/a	Fixation	n/a	n/a	S  1
+120.5720000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+121.3380000000	n/a	n/a	Up Button	n/a	n/a	S  4
+121.5820000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+122.6620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+123.4940000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+124.4140000000	n/a	n/a	Left Button	n/a	n/a	S  3
+124.6780000000	n/a	n/a	FB: Win	n/a	n/a	S201
+125.7480000000	n/a	n/a	Fixation	n/a	n/a	S  1
+126.4800000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+127.3300000000	n/a	n/a	Left Button	n/a	n/a	S  3
+127.6420000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+128.7180000000	n/a	n/a	Fixation	n/a	n/a	S  1
+129.5180000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+130.7060000000	n/a	n/a	Left Button	n/a	n/a	S  3
+130.8900000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+131.9700000000	n/a	n/a	Fixation	n/a	n/a	S  1
+132.7220000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+133.3220000000	n/a	n/a	Right Button	n/a	n/a	S  2
+133.5840000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+134.6720000000	n/a	n/a	Fixation	n/a	n/a	S  1
+135.4840000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+136.5380000000	n/a	n/a	Left Button	n/a	n/a	S  3
+136.7720000000	n/a	n/a	FB: Win	n/a	n/a	S201
+137.8580000000	n/a	n/a	Fixation	n/a	n/a	S  1
+138.6500000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+140.2080000000	n/a	n/a	No Response	n/a	n/a	S 99
+140.5620000000	n/a	n/a	FB: No Resp	n/a	n/a	S199
+141.6440000000	n/a	n/a	Fixation	n/a	n/a	S  1
+142.4460000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+143.4060000000	n/a	n/a	Right Button	n/a	n/a	S  2
+143.6580000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+144.7460000000	n/a	n/a	Fixation	n/a	n/a	S  1
+145.5980000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+146.3460000000	n/a	n/a	Up Button	n/a	n/a	S  4
+146.4980000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+147.5820000000	n/a	n/a	Fixation	n/a	n/a	S  1
+148.2740000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+149.3740000000	n/a	n/a	Left Button	n/a	n/a	S  3
+149.6960000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+150.7840000000	n/a	n/a	Fixation	n/a	n/a	S  1
+151.4960000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+152.0340000000	n/a	n/a	Right Button	n/a	n/a	S  2
+152.2660000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+153.3540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+154.0740000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+154.8420000000	n/a	n/a	Left Button	n/a	n/a	S  3
+155.1440000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+156.2220000000	n/a	n/a	Fixation	n/a	n/a	S  1
+156.9040000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+157.5500000000	n/a	n/a	Right Button	n/a	n/a	S  2
+157.7720000000	n/a	n/a	FB: Win	n/a	n/a	S201
+158.8580000000	n/a	n/a	Fixation	n/a	n/a	S  1
+159.5580000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+160.6100000000	n/a	n/a	Left Button	n/a	n/a	S  3
+160.7920000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+161.8760000000	n/a	n/a	Fixation	n/a	n/a	S  1
+162.7180000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+163.5700000000	n/a	n/a	Right Button	n/a	n/a	S  2
+163.8520000000	n/a	n/a	FB: Win	n/a	n/a	S201
+164.9280000000	n/a	n/a	Fixation	n/a	n/a	S  1
+165.7800000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+167.1440000000	n/a	n/a	Left Button	n/a	n/a	S  3
+167.3580000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+168.4320000000	n/a	n/a	Fixation	n/a	n/a	S  1
+169.1520000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+169.9960000000	n/a	n/a	Left Button	n/a	n/a	S  3
+170.3100000000	n/a	n/a	FB: Win	n/a	n/a	S201
+171.3840000000	n/a	n/a	Fixation	n/a	n/a	S  1
+172.0940000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+172.8880000000	n/a	n/a	Up Button	n/a	n/a	S  4
+173.1420000000	n/a	n/a	FB: Win	n/a	n/a	S201
+174.2200000000	n/a	n/a	Fixation	n/a	n/a	S  1
+175.0500000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+176.5800000000	n/a	n/a	Left Button	n/a	n/a	S  3
+176.8040000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+177.8880000000	n/a	n/a	Fixation	n/a	n/a	S  1
+178.6000000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+180.1560000000	n/a	n/a	No Response	n/a	n/a	S 99
+180.4000000000	n/a	n/a	FB: No Resp	n/a	n/a	S199
+181.4740000000	n/a	n/a	Fixation	n/a	n/a	S  1
+182.1360000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+183.4120000000	n/a	n/a	Up Button	n/a	n/a	S  4
+183.5860000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+184.6600000000	n/a	n/a	Fixation	n/a	n/a	S  1
+185.3320000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+186.1000000000	n/a	n/a	Right Button	n/a	n/a	S  2
+186.2640000000	n/a	n/a	FB: Win	n/a	n/a	S201
+187.3460000000	n/a	n/a	Fixation	n/a	n/a	S  1
+188.0180000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+188.9200000000	n/a	n/a	Left Button	n/a	n/a	S  3
+189.1640000000	n/a	n/a	FB: Win	n/a	n/a	S201
+190.2480000000	n/a	n/a	Fixation	n/a	n/a	S  1
+191.0900000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+191.6120000000	n/a	n/a	Up Button	n/a	n/a	S  4
+191.8160000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+192.9000000000	n/a	n/a	Fixation	n/a	n/a	S  1
+193.6820000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+194.6480000000	n/a	n/a	Right Button	n/a	n/a	S  2
+194.8120000000	n/a	n/a	FB: Win	n/a	n/a	S201
+195.8860000000	n/a	n/a	Fixation	n/a	n/a	S  1
+196.7380000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+197.6480000000	n/a	n/a	Up Button	n/a	n/a	S  4
+197.8720000000	n/a	n/a	FB: Win	n/a	n/a	S201
+198.9540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+199.7060000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+200.0760000000	n/a	n/a	Left Button	n/a	n/a	S  3
+200.2400000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+201.3240000000	n/a	n/a	Fixation	n/a	n/a	S  1
+202.1240000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+202.6800000000	n/a	n/a	Left Button	n/a	n/a	S  3
+203.0240000000	n/a	n/a	FB: Win	n/a	n/a	S201
+204.1080000000	n/a	n/a	Fixation	n/a	n/a	S  1
+204.8100000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+206.1280000000	n/a	n/a	Up Button	n/a	n/a	S  4
+206.4820000000	n/a	n/a	FB: Win	n/a	n/a	S201
+207.5620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+208.3420000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+209.1000000000	n/a	n/a	Right Button	n/a	n/a	S  2
+209.2640000000	n/a	n/a	FB: Win	n/a	n/a	S201
+210.3460000000	n/a	n/a	Fixation	n/a	n/a	S  1
+211.1180000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+211.5800000000	n/a	n/a	Up Button	n/a	n/a	S  4
+211.8640000000	n/a	n/a	FB: Win	n/a	n/a	S201
+212.9480000000	n/a	n/a	Fixation	n/a	n/a	S  1
+213.7900000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+214.5280000000	n/a	n/a	Right Button	n/a	n/a	S  2
+214.8320000000	n/a	n/a	FB: Win	n/a	n/a	S201
+215.9180000000	n/a	n/a	Fixation	n/a	n/a	S  1
+216.5800000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+217.7920000000	n/a	n/a	Left Button	n/a	n/a	S  3
+218.0760000000	n/a	n/a	FB: Win	n/a	n/a	S201
+219.1540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+219.9140000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+220.6960000000	n/a	n/a	Up Button	n/a	n/a	S  4
+221.0300000000	n/a	n/a	FB: Win	n/a	n/a	S201
+222.1060000000	n/a	n/a	Fixation	n/a	n/a	S  1
+222.9580000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+223.9240000000	n/a	n/a	Left Button	n/a	n/a	S  3
+224.2480000000	n/a	n/a	FB: Win	n/a	n/a	S201
+225.3240000000	n/a	n/a	Fixation	n/a	n/a	S  1
+226.1060000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+226.7360000000	n/a	n/a	Right Button	n/a	n/a	S  2
+226.8900000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+227.9780000000	n/a	n/a	Fixation	n/a	n/a	S  1
+228.7680000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+229.8480000000	n/a	n/a	Up Button	n/a	n/a	S  4
+230.1320000000	n/a	n/a	FB: Win	n/a	n/a	S201
+231.2120000000	n/a	n/a	Fixation	n/a	n/a	S  1
+232.0640000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+232.5320000000	n/a	n/a	Left Button	n/a	n/a	S  3
+232.8360000000	n/a	n/a	FB: Win	n/a	n/a	S201
+233.9140000000	n/a	n/a	Fixation	n/a	n/a	S  1
+234.5860000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+235.3880000000	n/a	n/a	Left Button	n/a	n/a	S  3
+235.5820000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+236.6680000000	n/a	n/a	Fixation	n/a	n/a	S  1
+237.4780000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+238.4520000000	n/a	n/a	Up Button	n/a	n/a	S  4
+238.6560000000	n/a	n/a	FB: Win	n/a	n/a	S201
+239.7360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+240.4780000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+241.4320000000	n/a	n/a	Left Button	n/a	n/a	S  3
+241.7860000000	n/a	n/a	FB: Win	n/a	n/a	S201
+242.8720000000	n/a	n/a	Fixation	n/a	n/a	S  1
+243.6140000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+245.1400000000	n/a	n/a	Up Button	n/a	n/a	S  4
+245.4140000000	n/a	n/a	FB: Win	n/a	n/a	S201
+246.4920000000	n/a	n/a	Fixation	n/a	n/a	S  1
+247.2120000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+247.8760000000	n/a	n/a	Left Button	n/a	n/a	S  3
+248.1100000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+249.1940000000	n/a	n/a	Fixation	n/a	n/a	S  1
+249.9140000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+250.8840000000	n/a	n/a	Left Button	n/a	n/a	S  3
+251.1580000000	n/a	n/a	FB: Win	n/a	n/a	S201
+252.2280000000	n/a	n/a	Fixation	n/a	n/a	S  1
+252.9900000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+253.9640000000	n/a	n/a	Left Button	n/a	n/a	S  3
+254.1280000000	n/a	n/a	FB: Win	n/a	n/a	S201
+255.2140000000	n/a	n/a	Fixation	n/a	n/a	S  1
+255.9760000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+256.4960000000	n/a	n/a	Up Button	n/a	n/a	S  4
+256.8100000000	n/a	n/a	FB: Win	n/a	n/a	S201
+257.8840000000	n/a	n/a	Fixation	n/a	n/a	S  1
+258.6140000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+259.1480000000	n/a	n/a	Left Button	n/a	n/a	S  3
+259.4620000000	n/a	n/a	FB: Win	n/a	n/a	S201
+260.5360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+261.3560000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+261.8640000000	n/a	n/a	Up Button	n/a	n/a	S  4
+262.0580000000	n/a	n/a	FB: Win	n/a	n/a	S201
+263.1380000000	n/a	n/a	Fixation	n/a	n/a	S  1
+263.8180000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+264.4880000000	n/a	n/a	Up Button	n/a	n/a	S  4
+264.6720000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+265.7560000000	n/a	n/a	Fixation	n/a	n/a	S  1
+266.5880000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+267.0880000000	n/a	n/a	Up Button	n/a	n/a	S  4
+267.2620000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+268.3420000000	n/a	n/a	Fixation	n/a	n/a	S  1
+269.0820000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+270.3600000000	n/a	n/a	Right Button	n/a	n/a	S  2
+270.6440000000	n/a	n/a	FB: Win	n/a	n/a	S201
+271.7280000000	n/a	n/a	Fixation	n/a	n/a	S  1
+272.4980000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+273.2080000000	n/a	n/a	Left Button	n/a	n/a	S  3
+273.4620000000	n/a	n/a	FB: Win	n/a	n/a	S201
+274.5460000000	n/a	n/a	Fixation	n/a	n/a	S  1
+275.1980000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+276.5520000000	n/a	n/a	Right Button	n/a	n/a	S  2
+276.8560000000	n/a	n/a	FB: Win	n/a	n/a	S201
+277.9320000000	n/a	n/a	Fixation	n/a	n/a	S  1
+278.5840000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+279.1440000000	n/a	n/a	Up Button	n/a	n/a	S  4
+279.3680000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+280.4500000000	n/a	n/a	Fixation	n/a	n/a	S  1
+281.2920000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+281.8960000000	n/a	n/a	Left Button	n/a	n/a	S  3
+282.1800000000	n/a	n/a	FB: Win	n/a	n/a	S201
+283.2520000000	n/a	n/a	Fixation	n/a	n/a	S  1
+284.0940000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+284.8880000000	n/a	n/a	Up Button	n/a	n/a	S  4
+285.1120000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+286.1880000000	n/a	n/a	Fixation	n/a	n/a	S  1
+286.8800000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+287.6440000000	n/a	n/a	Left Button	n/a	n/a	S  3
+287.9480000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+289.0240000000	n/a	n/a	Fixation	n/a	n/a	S  1
+289.7660000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+290.4520000000	n/a	n/a	Left Button	n/a	n/a	S  3
+290.7460000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+291.8260000000	n/a	n/a	Fixation	n/a	n/a	S  1
+292.5680000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+293.2640000000	n/a	n/a	Left Button	n/a	n/a	S  3
+293.6080000000	n/a	n/a	FB: Win	n/a	n/a	S201
+294.6940000000	n/a	n/a	Fixation	n/a	n/a	S  1
+295.4660000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+296.1880000000	n/a	n/a	Right Button	n/a	n/a	S  2
+296.4420000000	n/a	n/a	FB: Win	n/a	n/a	S201
+297.5140000000	n/a	n/a	Fixation	n/a	n/a	S  1
+298.2460000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+298.9200000000	n/a	n/a	Left Button	n/a	n/a	S  3
+299.2440000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+300.3160000000	n/a	n/a	Fixation	n/a	n/a	S  1
+301.1680000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+301.9520000000	n/a	n/a	Up Button	n/a	n/a	S  4
+302.1160000000	n/a	n/a	FB: Win	n/a	n/a	S201
+303.2020000000	n/a	n/a	Fixation	n/a	n/a	S  1
+303.9320000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+304.5600000000	n/a	n/a	Up Button	n/a	n/a	S  4
+304.9040000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+305.9860000000	n/a	n/a	Fixation	n/a	n/a	S  1
+306.6680000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+307.5960000000	n/a	n/a	Right Button	n/a	n/a	S  2
+307.7500000000	n/a	n/a	FB: Win	n/a	n/a	S201
+308.8220000000	n/a	n/a	Fixation	n/a	n/a	S  1
+309.5140000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+310.1520000000	n/a	n/a	Up Button	n/a	n/a	S  4
+310.3460000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+311.4240000000	n/a	n/a	Fixation	n/a	n/a	S  1
+312.1660000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+312.8960000000	n/a	n/a	Right Button	n/a	n/a	S  2
+313.1800000000	n/a	n/a	FB: Win	n/a	n/a	S201
+314.2600000000	n/a	n/a	Fixation	n/a	n/a	S  1
+315.0420000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+315.6680000000	n/a	n/a	Up Button	n/a	n/a	S  4
+315.8320000000	n/a	n/a	FB: Win	n/a	n/a	S201
+316.9120000000	n/a	n/a	Fixation	n/a	n/a	S  1
+317.6940000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+318.2240000000	n/a	n/a	Left Button	n/a	n/a	S  3
+318.4180000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+319.4980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+320.2380000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+321.0560000000	n/a	n/a	Up Button	n/a	n/a	S  4
+321.3200000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+322.4000000000	n/a	n/a	Fixation	n/a	n/a	S  1
+323.0800000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+323.6560000000	n/a	n/a	Left Button	n/a	n/a	S  3
+323.9700000000	n/a	n/a	FB: Win	n/a	n/a	S201
+325.0520000000	n/a	n/a	Fixation	n/a	n/a	S  1
+325.7320000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+326.3720000000	n/a	n/a	Right Button	n/a	n/a	S  2
+326.7240000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+356.7920000000	n/a	n/a	Fixation	n/a	n/a	S  1
+357.5440000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+358.7800000000	n/a	n/a	Left Button	n/a	n/a	S  3
+358.9320000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+360.0120000000	n/a	n/a	Fixation	n/a	n/a	S  1
+360.8620000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+362.0840000000	n/a	n/a	Up Button	n/a	n/a	S  4
+362.3260000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+363.3980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+364.0580000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+364.6420000000	n/a	n/a	Right Button	n/a	n/a	S  2
+364.9660000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+366.0500000000	n/a	n/a	Fixation	n/a	n/a	S  1
+366.8300000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+367.9140000000	n/a	n/a	Up Button	n/a	n/a	S  4
+368.0980000000	n/a	n/a	FB: Win	n/a	n/a	S201
+369.1860000000	n/a	n/a	Fixation	n/a	n/a	S  1
+369.9860000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+371.3700000000	n/a	n/a	Left Button	n/a	n/a	S  3
+371.6740000000	n/a	n/a	FB: Win	n/a	n/a	S201
+372.7540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+373.4260000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+374.1580000000	n/a	n/a	Left Button	n/a	n/a	S  3
+374.4720000000	n/a	n/a	FB: Win	n/a	n/a	S201
+375.5560000000	n/a	n/a	Fixation	n/a	n/a	S  1
+376.3880000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+377.6060000000	n/a	n/a	Up Button	n/a	n/a	S  4
+377.8800000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+378.9600000000	n/a	n/a	Fixation	n/a	n/a	S  1
+379.7100000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+381.1140000000	n/a	n/a	Right Button	n/a	n/a	S  2
+381.3780000000	n/a	n/a	FB: Win	n/a	n/a	S201
+382.4620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+383.1740000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+384.2220000000	n/a	n/a	Up Button	n/a	n/a	S  4
+384.5660000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+385.6480000000	n/a	n/a	Fixation	n/a	n/a	S  1
+386.4100000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+387.2100000000	n/a	n/a	Up Button	n/a	n/a	S  4
+387.4740000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+388.5500000000	n/a	n/a	Fixation	n/a	n/a	S  1
+389.2520000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+390.0540000000	n/a	n/a	Left Button	n/a	n/a	S  3
+390.3180000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+391.4020000000	n/a	n/a	Fixation	n/a	n/a	S  1
+392.2340000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+393.0140000000	n/a	n/a	Right Button	n/a	n/a	S  2
+393.2780000000	n/a	n/a	FB: Win	n/a	n/a	S201
+394.3540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+395.1560000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+396.0780000000	n/a	n/a	Right Button	n/a	n/a	S  2
+396.4220000000	n/a	n/a	FB: Win	n/a	n/a	S201
+397.5080000000	n/a	n/a	Fixation	n/a	n/a	S  1
+398.2780000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+399.6780000000	n/a	n/a	Left Button	n/a	n/a	S  3
+399.8820000000	n/a	n/a	FB: Win	n/a	n/a	S201
+400.9600000000	n/a	n/a	Fixation	n/a	n/a	S  1
+401.7820000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+402.8060000000	n/a	n/a	Up Button	n/a	n/a	S  4
+403.0500000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+404.1280000000	n/a	n/a	Fixation	n/a	n/a	S  1
+404.9500000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+405.6340000000	n/a	n/a	Up Button	n/a	n/a	S  4
+405.8380000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+406.9140000000	n/a	n/a	Fixation	n/a	n/a	S  1
+407.6160000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+408.9220000000	n/a	n/a	Up Button	n/a	n/a	S  4
+409.1460000000	n/a	n/a	FB: Win	n/a	n/a	S201
+410.2340000000	n/a	n/a	Fixation	n/a	n/a	S  1
+410.9540000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+411.6980000000	n/a	n/a	Up Button	n/a	n/a	S  4
+411.9820000000	n/a	n/a	FB: Win	n/a	n/a	S201
+413.0680000000	n/a	n/a	Fixation	n/a	n/a	S  1
+413.7900000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+414.4860000000	n/a	n/a	Up Button	n/a	n/a	S  4
+414.7700000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+415.8540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+416.6760000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+417.3140000000	n/a	n/a	Up Button	n/a	n/a	S  4
+417.6480000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+418.7240000000	n/a	n/a	Fixation	n/a	n/a	S  1
+419.4840000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+419.9420000000	n/a	n/a	Right Button	n/a	n/a	S  2
+420.1460000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+421.2260000000	n/a	n/a	Fixation	n/a	n/a	S  1
+422.0260000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+422.6420000000	n/a	n/a	Up Button	n/a	n/a	S  4
+422.9660000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+424.0440000000	n/a	n/a	Fixation	n/a	n/a	S  1
+424.8560000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+425.9900000000	n/a	n/a	Left Button	n/a	n/a	S  3
+426.1840000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+427.2640000000	n/a	n/a	Fixation	n/a	n/a	S  1
+427.9240000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+428.3980000000	n/a	n/a	Up Button	n/a	n/a	S  4
+428.7320000000	n/a	n/a	FB: Win	n/a	n/a	S201
+429.8160000000	n/a	n/a	Fixation	n/a	n/a	S  1
+430.5960000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+431.1300000000	n/a	n/a	Up Button	n/a	n/a	S  4
+431.4040000000	n/a	n/a	FB: Win	n/a	n/a	S201
+432.4840000000	n/a	n/a	Fixation	n/a	n/a	S  1
+433.2760000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+433.9940000000	n/a	n/a	Left Button	n/a	n/a	S  3
+434.3480000000	n/a	n/a	FB: Win	n/a	n/a	S201
+435.4200000000	n/a	n/a	Fixation	n/a	n/a	S  1
+436.1600000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+436.7140000000	n/a	n/a	Right Button	n/a	n/a	S  2
+436.9880000000	n/a	n/a	FB: Win	n/a	n/a	S201
+438.0720000000	n/a	n/a	Fixation	n/a	n/a	S  1
+438.7920000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+439.3660000000	n/a	n/a	Left Button	n/a	n/a	S  3
+439.5800000000	n/a	n/a	FB: Win	n/a	n/a	S201
+440.6560000000	n/a	n/a	Fixation	n/a	n/a	S  1
+441.4480000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+442.0020000000	n/a	n/a	Right Button	n/a	n/a	S  2
+442.3560000000	n/a	n/a	FB: Win	n/a	n/a	S201
+443.4420000000	n/a	n/a	Fixation	n/a	n/a	S  1
+444.1840000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+445.0300000000	n/a	n/a	Right Button	n/a	n/a	S  2
+445.2240000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+446.3120000000	n/a	n/a	Fixation	n/a	n/a	S  1
+447.0020000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+447.8060000000	n/a	n/a	Up Button	n/a	n/a	S  4
+448.0300000000	n/a	n/a	FB: Win	n/a	n/a	S201
+449.1140000000	n/a	n/a	Fixation	n/a	n/a	S  1
+449.9140000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+450.5620000000	n/a	n/a	Up Button	n/a	n/a	S  4
+450.8660000000	n/a	n/a	FB: Win	n/a	n/a	S201
+451.9480000000	n/a	n/a	Fixation	n/a	n/a	S  1
+452.6100000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+453.5740000000	n/a	n/a	Right Button	n/a	n/a	S  2
+453.7280000000	n/a	n/a	FB: Win	n/a	n/a	S201
+454.8020000000	n/a	n/a	Fixation	n/a	n/a	S  1
+455.5320000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+456.2020000000	n/a	n/a	Up Button	n/a	n/a	S  4
+456.3560000000	n/a	n/a	FB: Win	n/a	n/a	S201
+457.4360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+458.0980000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+458.8180000000	n/a	n/a	Right Button	n/a	n/a	S  2
+459.0620000000	n/a	n/a	FB: Win	n/a	n/a	S201
+460.1380000000	n/a	n/a	Fixation	n/a	n/a	S  1
+460.9700000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+461.8220000000	n/a	n/a	Right Button	n/a	n/a	S  2
+462.0660000000	n/a	n/a	FB: Win	n/a	n/a	S201
+463.1400000000	n/a	n/a	Fixation	n/a	n/a	S  1
+463.9020000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+465.3060000000	n/a	n/a	Right Button	n/a	n/a	S  2
+465.4600000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+466.5440000000	n/a	n/a	Fixation	n/a	n/a	S  1
+467.2740000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+468.8280000000	n/a	n/a	No Response	n/a	n/a	S 99
+469.1200000000	n/a	n/a	FB: No Resp	n/a	n/a	S199
+470.1960000000	n/a	n/a	Fixation	n/a	n/a	S  1
+471.0380000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+471.6500000000	n/a	n/a	Left Button	n/a	n/a	S  3
+471.8940000000	n/a	n/a	FB: Win	n/a	n/a	S201
+472.9640000000	n/a	n/a	Fixation	n/a	n/a	S  1
+473.6260000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+474.1340000000	n/a	n/a	Left Button	n/a	n/a	S  3
+474.4480000000	n/a	n/a	FB: Win	n/a	n/a	S201
+475.5340000000	n/a	n/a	Fixation	n/a	n/a	S  1
+476.3040000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+477.1180000000	n/a	n/a	Right Button	n/a	n/a	S  2
+477.3520000000	n/a	n/a	FB: Win	n/a	n/a	S201
+478.4360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+479.0880000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+479.8380000000	n/a	n/a	Left Button	n/a	n/a	S  3
+480.0620000000	n/a	n/a	FB: Win	n/a	n/a	S201
+481.1380000000	n/a	n/a	Fixation	n/a	n/a	S  1
+481.8900000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+482.4980000000	n/a	n/a	Left Button	n/a	n/a	S  3
+482.8120000000	n/a	n/a	FB: Win	n/a	n/a	S201
+483.8900000000	n/a	n/a	Fixation	n/a	n/a	S  1
+484.6420000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+485.7580000000	n/a	n/a	Left Button	n/a	n/a	S  3
+486.0720000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+487.1420000000	n/a	n/a	Fixation	n/a	n/a	S  1
+487.9840000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+488.6580000000	n/a	n/a	Right Button	n/a	n/a	S  2
+488.9820000000	n/a	n/a	FB: Win	n/a	n/a	S201
+490.0620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+490.8220000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+491.4540000000	n/a	n/a	Right Button	n/a	n/a	S  2
+491.7380000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+492.8140000000	n/a	n/a	Fixation	n/a	n/a	S  1
+493.6040000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+494.3060000000	n/a	n/a	Right Button	n/a	n/a	S  2
+494.4900000000	n/a	n/a	FB: Win	n/a	n/a	S201
+495.5660000000	n/a	n/a	Fixation	n/a	n/a	S  1
+496.3460000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+497.2140000000	n/a	n/a	Right Button	n/a	n/a	S  2
+497.3880000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+498.4680000000	n/a	n/a	Fixation	n/a	n/a	S  1
+499.1500000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+500.2260000000	n/a	n/a	Up Button	n/a	n/a	S  4
+500.4400000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+501.5200000000	n/a	n/a	Fixation	n/a	n/a	S  1
+502.2820000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+503.3260000000	n/a	n/a	Up Button	n/a	n/a	S  4
+503.5600000000	n/a	n/a	FB: Win	n/a	n/a	S201
+504.6400000000	n/a	n/a	Fixation	n/a	n/a	S  1
+505.4000000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+506.1180000000	n/a	n/a	Right Button	n/a	n/a	S  2
+506.3220000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+507.4080000000	n/a	n/a	Fixation	n/a	n/a	S  1
+508.1700000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+509.6740000000	n/a	n/a	Right Button	n/a	n/a	S  2
+509.8280000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+510.9100000000	n/a	n/a	Fixation	n/a	n/a	S  1
+511.5620000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+512.2620000000	n/a	n/a	Up Button	n/a	n/a	S  4
+512.5860000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+513.6620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+514.4340000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+515.5620000000	n/a	n/a	Up Button	n/a	n/a	S  4
+515.7260000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+516.7980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+517.6100000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+518.5740000000	n/a	n/a	Left Button	n/a	n/a	S  3
+518.8960000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+519.9840000000	n/a	n/a	Fixation	n/a	n/a	S  1
+520.7560000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+521.4940000000	n/a	n/a	Up Button	n/a	n/a	S  4
+521.7760000000	n/a	n/a	FB: Win	n/a	n/a	S201
+522.8540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+523.5640000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+524.1260000000	n/a	n/a	Up Button	n/a	n/a	S  4
+524.2980000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+525.3720000000	n/a	n/a	Fixation	n/a	n/a	S  1
+526.0840000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+526.8540000000	n/a	n/a	Up Button	n/a	n/a	S  4
+527.1960000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+528.2740000000	n/a	n/a	Fixation	n/a	n/a	S  1
+529.1160000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+529.8060000000	n/a	n/a	Up Button	n/a	n/a	S  4
+530.0680000000	n/a	n/a	FB: Win	n/a	n/a	S201
+531.1420000000	n/a	n/a	Fixation	n/a	n/a	S  1
+531.9840000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+533.0460000000	n/a	n/a	Right Button	n/a	n/a	S  2
+533.3080000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+534.3960000000	n/a	n/a	Fixation	n/a	n/a	S  1
+535.1660000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+536.7300000000	n/a	n/a	No Response	n/a	n/a	S 99
+536.9220000000	n/a	n/a	FB: No Resp	n/a	n/a	S199
+537.9980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+538.8000000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+539.3620000000	n/a	n/a	Right Button	n/a	n/a	S  2
+539.5840000000	n/a	n/a	FB: Win	n/a	n/a	S201
+540.6660000000	n/a	n/a	Fixation	n/a	n/a	S  1
+541.4680000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+542.1100000000	n/a	n/a	Up Button	n/a	n/a	S  4
+542.3420000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+543.4180000000	n/a	n/a	Fixation	n/a	n/a	S  1
+544.1800000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+544.8940000000	n/a	n/a	Right Button	n/a	n/a	S  2
+545.1560000000	n/a	n/a	FB: Win	n/a	n/a	S201
+546.2380000000	n/a	n/a	Fixation	n/a	n/a	S  1
+547.0900000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+547.6220000000	n/a	n/a	Right Button	n/a	n/a	S  2
+547.8240000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+548.9060000000	n/a	n/a	Fixation	n/a	n/a	S  1
+549.7280000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+550.2160000000	n/a	n/a	Up Button	n/a	n/a	S  4
+550.5600000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+551.6420000000	n/a	n/a	Fixation	n/a	n/a	S  1
+552.4940000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+553.1720000000	n/a	n/a	Right Button	n/a	n/a	S  2
+553.3860000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+554.4600000000	n/a	n/a	Fixation	n/a	n/a	S  1
+555.2720000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+555.8080000000	n/a	n/a	Left Button	n/a	n/a	S  3
+555.9820000000	n/a	n/a	FB: Win	n/a	n/a	S201
+557.0620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+557.8640000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+558.4960000000	n/a	n/a	Left Button	n/a	n/a	S  3
+558.7900000000	n/a	n/a	FB: Win	n/a	n/a	S201
+559.8640000000	n/a	n/a	Fixation	n/a	n/a	S  1
+560.6860000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+561.2720000000	n/a	n/a	Up Button	n/a	n/a	S  4
+561.6160000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+562.7000000000	n/a	n/a	Fixation	n/a	n/a	S  1
+563.5320000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+564.1440000000	n/a	n/a	Up Button	n/a	n/a	S  4
+564.3780000000	n/a	n/a	FB: Win	n/a	n/a	S201
+565.4520000000	n/a	n/a	Fixation	n/a	n/a	S  1
+566.1640000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+566.8080000000	n/a	n/a	Left Button	n/a	n/a	S  3
+567.0220000000	n/a	n/a	FB: Win	n/a	n/a	S201
+568.1040000000	n/a	n/a	Fixation	n/a	n/a	S  1
+568.7760000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+569.3800000000	n/a	n/a	Left Button	n/a	n/a	S  3
+569.6240000000	n/a	n/a	FB: Win	n/a	n/a	S201
+570.7060000000	n/a	n/a	Fixation	n/a	n/a	S  1
+571.4380000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+571.9360000000	n/a	n/a	Left Button	n/a	n/a	S  3
+572.1700000000	n/a	n/a	FB: Win	n/a	n/a	S201
+573.2420000000	n/a	n/a	Fixation	n/a	n/a	S  1
+574.0740000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+574.6520000000	n/a	n/a	Up Button	n/a	n/a	S  4
+574.9260000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+576.0100000000	n/a	n/a	Fixation	n/a	n/a	S  1
+576.8120000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+577.5040000000	n/a	n/a	Left Button	n/a	n/a	S  3
+577.8580000000	n/a	n/a	FB: Win	n/a	n/a	S201
+578.9300000000	n/a	n/a	Fixation	n/a	n/a	S  1
+579.7000000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+580.2960000000	n/a	n/a	Up Button	n/a	n/a	S  4
+580.5000000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+581.5820000000	n/a	n/a	Fixation	n/a	n/a	S  1
+582.4020000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+582.9400000000	n/a	n/a	Left Button	n/a	n/a	S  3
+583.1740000000	n/a	n/a	FB: Win	n/a	n/a	S201
+584.2500000000	n/a	n/a	Fixation	n/a	n/a	S  1
+584.9620000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+585.8320000000	n/a	n/a	Right Button	n/a	n/a	S  2
+585.9860000000	n/a	n/a	FB: Win	n/a	n/a	S201
+587.0700000000	n/a	n/a	Fixation	n/a	n/a	S  1
+587.7600000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+588.3360000000	n/a	n/a	Up Button	n/a	n/a	S  4
+588.5000000000	n/a	n/a	FB: Win	n/a	n/a	S201
+603.6320000000	n/a	n/a	Fixation	n/a	n/a	S  1
+604.4340000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+605.4480000000	n/a	n/a	Up Button	n/a	n/a	S  4
+605.6020000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+606.6840000000	n/a	n/a	Fixation	n/a	n/a	S  1
+607.4660000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+608.2320000000	n/a	n/a	Right Button	n/a	n/a	S  2
+608.5660000000	n/a	n/a	FB: Win	n/a	n/a	S201
+609.6540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+610.4340000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+611.0480000000	n/a	n/a	Up Button	n/a	n/a	S  4
+611.2420000000	n/a	n/a	FB: Win	n/a	n/a	S201
+612.3220000000	n/a	n/a	Fixation	n/a	n/a	S  1
+613.0340000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+613.6000000000	n/a	n/a	Right Button	n/a	n/a	S  2
+613.9240000000	n/a	n/a	FB: Win	n/a	n/a	S201
+615.0080000000	n/a	n/a	Fixation	n/a	n/a	S  1
+615.8580000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+616.4360000000	n/a	n/a	Right Button	n/a	n/a	S  2
+616.6500000000	n/a	n/a	FB: Win	n/a	n/a	S201
+617.7260000000	n/a	n/a	Fixation	n/a	n/a	S  1
+618.3780000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+618.9480000000	n/a	n/a	Right Button	n/a	n/a	S  2
+619.1720000000	n/a	n/a	FB: Win	n/a	n/a	S201
+620.2440000000	n/a	n/a	Fixation	n/a	n/a	S  1
+621.0560000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+621.7320000000	n/a	n/a	Left Button	n/a	n/a	S  3
+622.0660000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+623.1460000000	n/a	n/a	Fixation	n/a	n/a	S  1
+623.8380000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+624.4680000000	n/a	n/a	Right Button	n/a	n/a	S  2
+624.8120000000	n/a	n/a	FB: Win	n/a	n/a	S201
+625.8980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+626.6100000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+627.1960000000	n/a	n/a	Right Button	n/a	n/a	S  2
+627.5100000000	n/a	n/a	FB: Win	n/a	n/a	S201
+628.5840000000	n/a	n/a	Fixation	n/a	n/a	S  1
+629.2960000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+629.8560000000	n/a	n/a	Right Button	n/a	n/a	S  2
+630.0500000000	n/a	n/a	FB: Win	n/a	n/a	S201
+631.1360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+631.7880000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+632.7360000000	n/a	n/a	Left Button	n/a	n/a	S  3
+633.0700000000	n/a	n/a	FB: Win	n/a	n/a	S201
+634.1560000000	n/a	n/a	Fixation	n/a	n/a	S  1
+634.9160000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+635.6320000000	n/a	n/a	Up Button	n/a	n/a	S  4
+635.9160000000	n/a	n/a	FB: Win	n/a	n/a	S201
+636.9900000000	n/a	n/a	Fixation	n/a	n/a	S  1
+637.6820000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+638.3040000000	n/a	n/a	Right Button	n/a	n/a	S  2
+638.5580000000	n/a	n/a	FB: Win	n/a	n/a	S201
+639.6420000000	n/a	n/a	Fixation	n/a	n/a	S  1
+640.3840000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+641.1040000000	n/a	n/a	Right Button	n/a	n/a	S  2
+641.3780000000	n/a	n/a	FB: Win	n/a	n/a	S201
+642.4620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+643.2320000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+643.7560000000	n/a	n/a	Right Button	n/a	n/a	S  2
+644.0800000000	n/a	n/a	FB: Win	n/a	n/a	S201
+645.1640000000	n/a	n/a	Fixation	n/a	n/a	S  1
+645.8440000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+646.7760000000	n/a	n/a	Up Button	n/a	n/a	S  4
+647.0700000000	n/a	n/a	FB: Win	n/a	n/a	S201
+648.1500000000	n/a	n/a	Fixation	n/a	n/a	S  1
+648.8000000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+649.7760000000	n/a	n/a	Left Button	n/a	n/a	S  3
+649.9400000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+651.0180000000	n/a	n/a	Fixation	n/a	n/a	S  1
+651.8680000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+652.5520000000	n/a	n/a	Right Button	n/a	n/a	S  2
+652.8760000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+653.9540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+654.7960000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+656.3540000000	n/a	n/a	No Response	n/a	n/a	S 99
+656.6880000000	n/a	n/a	FB: No Resp	n/a	n/a	S199
+657.7740000000	n/a	n/a	Fixation	n/a	n/a	S  1
+658.5040000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+659.4960000000	n/a	n/a	Right Button	n/a	n/a	S  2
+659.6900000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+660.7760000000	n/a	n/a	Fixation	n/a	n/a	S  1
+661.4860000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+662.3840000000	n/a	n/a	Right Button	n/a	n/a	S  2
+662.6280000000	n/a	n/a	FB: Win	n/a	n/a	S201
+663.7120000000	n/a	n/a	Fixation	n/a	n/a	S  1
+664.5220000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+665.1920000000	n/a	n/a	Up Button	n/a	n/a	S  4
+665.3460000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+666.4300000000	n/a	n/a	Fixation	n/a	n/a	S  1
+667.1720000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+668.2400000000	n/a	n/a	Up Button	n/a	n/a	S  4
+668.4740000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+669.5500000000	n/a	n/a	Fixation	n/a	n/a	S  1
+670.3700000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+670.9960000000	n/a	n/a	Up Button	n/a	n/a	S  4
+671.3400000000	n/a	n/a	FB: Win	n/a	n/a	S201
+672.4180000000	n/a	n/a	Fixation	n/a	n/a	S  1
+673.1400000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+673.8360000000	n/a	n/a	Left Button	n/a	n/a	S  3
+674.1800000000	n/a	n/a	FB: Win	n/a	n/a	S201
+675.2540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+676.0040000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+676.6320000000	n/a	n/a	Up Button	n/a	n/a	S  4
+676.8660000000	n/a	n/a	FB: Win	n/a	n/a	S201
+677.9380000000	n/a	n/a	Fixation	n/a	n/a	S  1
+678.6200000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+679.2280000000	n/a	n/a	Right Button	n/a	n/a	S  2
+679.5520000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+680.6240000000	n/a	n/a	Fixation	n/a	n/a	S  1
+681.4060000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+682.3280000000	n/a	n/a	Left Button	n/a	n/a	S  3
+682.5120000000	n/a	n/a	FB: Win	n/a	n/a	S201
+683.5940000000	n/a	n/a	Fixation	n/a	n/a	S  1
+684.3440000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+684.9320000000	n/a	n/a	Left Button	n/a	n/a	S  3
+685.1460000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+686.2280000000	n/a	n/a	Fixation	n/a	n/a	S  1
+687.0500000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+688.0480000000	n/a	n/a	Right Button	n/a	n/a	S  2
+688.2020000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+689.2800000000	n/a	n/a	Fixation	n/a	n/a	S  1
+690.0620000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+690.6640000000	n/a	n/a	Up Button	n/a	n/a	S  4
+690.9080000000	n/a	n/a	FB: Win	n/a	n/a	S201
+691.9820000000	n/a	n/a	Fixation	n/a	n/a	S  1
+692.6740000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+693.3400000000	n/a	n/a	Right Button	n/a	n/a	S  2
+693.5840000000	n/a	n/a	FB: Win	n/a	n/a	S201
+694.6680000000	n/a	n/a	Fixation	n/a	n/a	S  1
+695.3500000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+696.1040000000	n/a	n/a	Left Button	n/a	n/a	S  3
+696.4380000000	n/a	n/a	FB: Win	n/a	n/a	S201
+697.5200000000	n/a	n/a	Fixation	n/a	n/a	S  1
+698.2720000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+699.2240000000	n/a	n/a	Up Button	n/a	n/a	S  4
+699.4180000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+700.4900000000	n/a	n/a	Fixation	n/a	n/a	S  1
+701.1900000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+702.7560000000	n/a	n/a	No Response	n/a	n/a	S 99
+703.0800000000	n/a	n/a	FB: No Resp	n/a	n/a	S199
+704.1580000000	n/a	n/a	Fixation	n/a	n/a	S  1
+704.9900000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+705.6280000000	n/a	n/a	Left Button	n/a	n/a	S  3
+705.9200000000	n/a	n/a	FB: Win	n/a	n/a	S201
+706.9940000000	n/a	n/a	Fixation	n/a	n/a	S  1
+707.6860000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+708.4000000000	n/a	n/a	Up Button	n/a	n/a	S  4
+708.7020000000	n/a	n/a	FB: Win	n/a	n/a	S201
+709.7800000000	n/a	n/a	Fixation	n/a	n/a	S  1
+710.5020000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+711.2920000000	n/a	n/a	Left Button	n/a	n/a	S  3
+711.6340000000	n/a	n/a	FB: Win	n/a	n/a	S201
+712.7160000000	n/a	n/a	Fixation	n/a	n/a	S  1
+713.3860000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+714.2760000000	n/a	n/a	Left Button	n/a	n/a	S  3
+714.5300000000	n/a	n/a	FB: Win	n/a	n/a	S201
+715.6020000000	n/a	n/a	Fixation	n/a	n/a	S  1
+716.4320000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+717.2200000000	n/a	n/a	Left Button	n/a	n/a	S  3
+717.4720000000	n/a	n/a	FB: Win	n/a	n/a	S201
+718.5540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+719.2440000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+720.3800000000	n/a	n/a	Left Button	n/a	n/a	S  3
+720.5620000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+721.6380000000	n/a	n/a	Fixation	n/a	n/a	S  1
+722.3200000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+722.9360000000	n/a	n/a	Right Button	n/a	n/a	S  2
+723.2780000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+724.3580000000	n/a	n/a	Fixation	n/a	n/a	S  1
+725.1700000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+725.6520000000	n/a	n/a	Up Button	n/a	n/a	S  4
+725.8540000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+726.9260000000	n/a	n/a	Fixation	n/a	n/a	S  1
+727.5880000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+728.1000000000	n/a	n/a	Right Button	n/a	n/a	S  2
+728.3420000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+729.4280000000	n/a	n/a	Fixation	n/a	n/a	S  1
+730.1800000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+730.8960000000	n/a	n/a	Up Button	n/a	n/a	S  4
+731.0480000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+732.1300000000	n/a	n/a	Fixation	n/a	n/a	S  1
+732.8820000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+733.8160000000	n/a	n/a	Right Button	n/a	n/a	S  2
+733.9680000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+735.0500000000	n/a	n/a	Fixation	n/a	n/a	S  1
+735.7600000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+736.2240000000	n/a	n/a	Left Button	n/a	n/a	S  3
+736.4360000000	n/a	n/a	FB: Win	n/a	n/a	S201
+737.5180000000	n/a	n/a	Fixation	n/a	n/a	S  1
+738.2300000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+738.8760000000	n/a	n/a	Up Button	n/a	n/a	S  4
+739.0580000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+740.1360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+740.8480000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+741.8400000000	n/a	n/a	Right Button	n/a	n/a	S  2
+742.1620000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+743.2380000000	n/a	n/a	Fixation	n/a	n/a	S  1
+743.9800000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+744.4340000000	n/a	n/a	Up Button	n/a	n/a	S  4
+744.7480000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+745.8240000000	n/a	n/a	Fixation	n/a	n/a	S  1
+746.4960000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+747.1780000000	n/a	n/a	Left Button	n/a	n/a	S  3
+747.4720000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+748.5600000000	n/a	n/a	Fixation	n/a	n/a	S  1
+749.3400000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+750.0580000000	n/a	n/a	Left Button	n/a	n/a	S  3
+750.2720000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+751.3460000000	n/a	n/a	Fixation	n/a	n/a	S  1
+752.1360000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+752.6260000000	n/a	n/a	Right Button	n/a	n/a	S  2
+752.9300000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+754.0140000000	n/a	n/a	Fixation	n/a	n/a	S  1
+754.7260000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+755.9140000000	n/a	n/a	Up Button	n/a	n/a	S  4
+756.1180000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+757.2000000000	n/a	n/a	Fixation	n/a	n/a	S  1
+757.8600000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+758.5260000000	n/a	n/a	Right Button	n/a	n/a	S  2
+758.8500000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+759.9360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+760.6360000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+761.4260000000	n/a	n/a	Left Button	n/a	n/a	S  3
+761.6300000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+762.7040000000	n/a	n/a	Fixation	n/a	n/a	S  1
+763.3660000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+764.0260000000	n/a	n/a	Up Button	n/a	n/a	S  4
+764.2700000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+765.3560000000	n/a	n/a	Fixation	n/a	n/a	S  1
+766.1580000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+766.8300000000	n/a	n/a	Right Button	n/a	n/a	S  2
+767.1040000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+768.1920000000	n/a	n/a	Fixation	n/a	n/a	S  1
+768.9920000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+769.5900000000	n/a	n/a	Up Button	n/a	n/a	S  4
+769.9140000000	n/a	n/a	FB: Win	n/a	n/a	S201
+770.9940000000	n/a	n/a	Fixation	n/a	n/a	S  1
+771.7240000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+772.2820000000	n/a	n/a	Left Button	n/a	n/a	S  3
+772.6360000000	n/a	n/a	FB: Win	n/a	n/a	S201
+773.7120000000	n/a	n/a	Fixation	n/a	n/a	S  1
+774.4840000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+775.0420000000	n/a	n/a	Left Button	n/a	n/a	S  3
+775.3260000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+776.3980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+777.1480000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+778.0300000000	n/a	n/a	Left Button	n/a	n/a	S  3
+778.2040000000	n/a	n/a	FB: Win	n/a	n/a	S201
+779.2840000000	n/a	n/a	Fixation	n/a	n/a	S  1
+779.9540000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+780.5140000000	n/a	n/a	Up Button	n/a	n/a	S  4
+780.6980000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+781.7860000000	n/a	n/a	Fixation	n/a	n/a	S  1
+782.5160000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+783.8660000000	n/a	n/a	Left Button	n/a	n/a	S  3
+784.1700000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+785.2540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+786.0660000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+786.6900000000	n/a	n/a	Left Button	n/a	n/a	S  3
+786.9540000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+788.0400000000	n/a	n/a	Fixation	n/a	n/a	S  1
+788.8320000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+789.9060000000	n/a	n/a	Left Button	n/a	n/a	S  3
+790.1400000000	n/a	n/a	FB: Win	n/a	n/a	S201
+791.2260000000	n/a	n/a	Fixation	n/a	n/a	S  1
+791.9760000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+792.9220000000	n/a	n/a	Left Button	n/a	n/a	S  3
+793.0860000000	n/a	n/a	FB: Win	n/a	n/a	S201
+794.1620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+794.8420000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+795.5380000000	n/a	n/a	Left Button	n/a	n/a	S  3
+795.7120000000	n/a	n/a	FB: Win	n/a	n/a	S201
+796.7960000000	n/a	n/a	Fixation	n/a	n/a	S  1
+797.4580000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+798.2540000000	n/a	n/a	Left Button	n/a	n/a	S  3
+798.5580000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+799.6320000000	n/a	n/a	Fixation	n/a	n/a	S  1
+800.3040000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+800.9860000000	n/a	n/a	Right Button	n/a	n/a	S  2
+801.2300000000	n/a	n/a	FB: Win	n/a	n/a	S201
+802.3180000000	n/a	n/a	Fixation	n/a	n/a	S  1
+803.1080000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+803.7460000000	n/a	n/a	Right Button	n/a	n/a	S  2
+804.0900000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+805.1700000000	n/a	n/a	Fixation	n/a	n/a	S  1
+805.9520000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+807.2100000000	n/a	n/a	Right Button	n/a	n/a	S  2
+807.4840000000	n/a	n/a	FB: Win	n/a	n/a	S201
+808.5560000000	n/a	n/a	Fixation	n/a	n/a	S  1
+809.2460000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+810.7780000000	n/a	n/a	Right Button	n/a	n/a	S  2
+811.0520000000	n/a	n/a	FB: Win	n/a	n/a	S201
+812.1260000000	n/a	n/a	Fixation	n/a	n/a	S  1
+812.8560000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+813.8180000000	n/a	n/a	Left Button	n/a	n/a	S  3
+814.1320000000	n/a	n/a	FB: Win	n/a	n/a	S201
+815.2100000000	n/a	n/a	Fixation	n/a	n/a	S  1
+816.0020000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+817.5620000000	n/a	n/a	No Response	n/a	n/a	S 99
+817.8140000000	n/a	n/a	FB: No Resp	n/a	n/a	S199
+818.8960000000	n/a	n/a	Fixation	n/a	n/a	S  1
+819.6380000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+820.3380000000	n/a	n/a	Left Button	n/a	n/a	S  3
+820.4920000000	n/a	n/a	FB: Win	n/a	n/a	S201
+821.5660000000	n/a	n/a	Fixation	n/a	n/a	S  1
+822.3960000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+822.9420000000	n/a	n/a	Right Button	n/a	n/a	S  2
+823.1960000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+824.2680000000	n/a	n/a	Fixation	n/a	n/a	S  1
+824.9580000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+825.6500000000	n/a	n/a	Right Button	n/a	n/a	S  2
+825.8240000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+826.9040000000	n/a	n/a	Fixation	n/a	n/a	S  1
+827.7140000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+828.2380000000	n/a	n/a	Left Button	n/a	n/a	S  3
+828.5520000000	n/a	n/a	FB: Win	n/a	n/a	S201
+829.6380000000	n/a	n/a	Fixation	n/a	n/a	S  1
+830.3200000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+830.8780000000	n/a	n/a	Right Button	n/a	n/a	S  2
+831.1520000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+850.9040000000	n/a	n/a	Fixation	n/a	n/a	S  1
+851.6360000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+852.4300000000	n/a	n/a	Left Button	n/a	n/a	S  3
+852.6640000000	n/a	n/a	FB: Win	n/a	n/a	S201
+853.7400000000	n/a	n/a	Fixation	n/a	n/a	S  1
+854.4720000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+855.2220000000	n/a	n/a	Up Button	n/a	n/a	S  4
+855.3760000000	n/a	n/a	FB: Win	n/a	n/a	S201
+856.4600000000	n/a	n/a	Fixation	n/a	n/a	S  1
+857.2000000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+857.8540000000	n/a	n/a	Up Button	n/a	n/a	S  4
+858.2080000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+859.2940000000	n/a	n/a	Fixation	n/a	n/a	S  1
+860.0560000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+861.1780000000	n/a	n/a	Left Button	n/a	n/a	S  3
+861.5120000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+862.5980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+863.3880000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+863.9500000000	n/a	n/a	Left Button	n/a	n/a	S  3
+864.1540000000	n/a	n/a	FB: Win	n/a	n/a	S201
+865.2320000000	n/a	n/a	Fixation	n/a	n/a	S  1
+866.0140000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+866.6460000000	n/a	n/a	Up Button	n/a	n/a	S  4
+866.9300000000	n/a	n/a	FB: Win	n/a	n/a	S201
+868.0020000000	n/a	n/a	Fixation	n/a	n/a	S  1
+868.6920000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+869.4740000000	n/a	n/a	Left Button	n/a	n/a	S  3
+869.6480000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+870.7200000000	n/a	n/a	Fixation	n/a	n/a	S  1
+871.5420000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+872.1300000000	n/a	n/a	Right Button	n/a	n/a	S  2
+872.3440000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+873.4220000000	n/a	n/a	Fixation	n/a	n/a	S  1
+874.2240000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+874.9580000000	n/a	n/a	Up Button	n/a	n/a	S  4
+875.2020000000	n/a	n/a	FB: Win	n/a	n/a	S201
+876.2740000000	n/a	n/a	Fixation	n/a	n/a	S  1
+877.0160000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+877.6020000000	n/a	n/a	Right Button	n/a	n/a	S  2
+877.8160000000	n/a	n/a	FB: Win	n/a	n/a	S201
+878.8920000000	n/a	n/a	Fixation	n/a	n/a	S  1
+879.5640000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+880.5780000000	n/a	n/a	Right Button	n/a	n/a	S  2
+880.7620000000	n/a	n/a	FB: Win	n/a	n/a	S201
+881.8460000000	n/a	n/a	Fixation	n/a	n/a	S  1
+882.6860000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+883.1900000000	n/a	n/a	Right Button	n/a	n/a	S  2
+883.4440000000	n/a	n/a	FB: Win	n/a	n/a	S201
+884.5300000000	n/a	n/a	Fixation	n/a	n/a	S  1
+885.2320000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+885.8340000000	n/a	n/a	Right Button	n/a	n/a	S  2
+886.1680000000	n/a	n/a	FB: Win	n/a	n/a	S201
+887.2500000000	n/a	n/a	Fixation	n/a	n/a	S  1
+887.9800000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+889.1380000000	n/a	n/a	Right Button	n/a	n/a	S  2
+889.3520000000	n/a	n/a	FB: Win	n/a	n/a	S201
+890.4360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+891.2160000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+892.1740000000	n/a	n/a	Left Button	n/a	n/a	S  3
+892.5280000000	n/a	n/a	FB: Win	n/a	n/a	S201
+893.6040000000	n/a	n/a	Fixation	n/a	n/a	S  1
+894.2660000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+894.8260000000	n/a	n/a	Up Button	n/a	n/a	S  4
+895.1000000000	n/a	n/a	FB: Win	n/a	n/a	S201
+896.1720000000	n/a	n/a	Fixation	n/a	n/a	S  1
+897.0240000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+897.6940000000	n/a	n/a	Left Button	n/a	n/a	S  3
+897.8780000000	n/a	n/a	FB: Win	n/a	n/a	S201
+898.9580000000	n/a	n/a	Fixation	n/a	n/a	S  1
+899.8000000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+900.3020000000	n/a	n/a	Up Button	n/a	n/a	S  4
+900.6260000000	n/a	n/a	FB: Win	n/a	n/a	S201
+901.7100000000	n/a	n/a	Fixation	n/a	n/a	S  1
+902.4320000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+902.9100000000	n/a	n/a	Left Button	n/a	n/a	S  3
+903.2620000000	n/a	n/a	FB: Win	n/a	n/a	S201
+904.3460000000	n/a	n/a	Fixation	n/a	n/a	S  1
+905.1280000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+905.7020000000	n/a	n/a	Right Button	n/a	n/a	S  2
+906.0240000000	n/a	n/a	FB: Win	n/a	n/a	S201
+907.0980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+907.7800000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+908.4780000000	n/a	n/a	Right Button	n/a	n/a	S  2
+908.7900000000	n/a	n/a	FB: Win	n/a	n/a	S201
+909.8660000000	n/a	n/a	Fixation	n/a	n/a	S  1
+910.5380000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+911.2260000000	n/a	n/a	Up Button	n/a	n/a	S  4
+911.4580000000	n/a	n/a	FB: Win	n/a	n/a	S201
+912.5360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+913.2860000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+913.9340000000	n/a	n/a	Right Button	n/a	n/a	S  2
+914.2860000000	n/a	n/a	FB: Win	n/a	n/a	S201
+915.3700000000	n/a	n/a	Fixation	n/a	n/a	S  1
+916.0220000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+916.8220000000	n/a	n/a	Up Button	n/a	n/a	S  4
+917.0440000000	n/a	n/a	FB: Win	n/a	n/a	S201
+918.1240000000	n/a	n/a	Fixation	n/a	n/a	S  1
+918.8340000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+919.3300000000	n/a	n/a	Up Button	n/a	n/a	S  4
+919.6120000000	n/a	n/a	FB: Win	n/a	n/a	S201
+920.6920000000	n/a	n/a	Fixation	n/a	n/a	S  1
+921.3620000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+921.9140000000	n/a	n/a	Right Button	n/a	n/a	S  2
+922.0760000000	n/a	n/a	FB: Win	n/a	n/a	S201
+923.1600000000	n/a	n/a	Fixation	n/a	n/a	S  1
+924.0120000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+924.6500000000	n/a	n/a	Right Button	n/a	n/a	S  2
+924.9520000000	n/a	n/a	FB: Win	n/a	n/a	S201
+926.0300000000	n/a	n/a	Fixation	n/a	n/a	S  1
+926.8400000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+927.3740000000	n/a	n/a	Left Button	n/a	n/a	S  3
+927.6560000000	n/a	n/a	FB: Win	n/a	n/a	S201
+928.7320000000	n/a	n/a	Fixation	n/a	n/a	S  1
+929.3820000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+929.9200000000	n/a	n/a	Right Button	n/a	n/a	S  2
+930.1540000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+931.2340000000	n/a	n/a	Fixation	n/a	n/a	S  1
+931.8940000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+932.5680000000	n/a	n/a	Up Button	n/a	n/a	S  4
+932.7620000000	n/a	n/a	FB: Win	n/a	n/a	S201
+933.8360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+934.5960000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+935.8840000000	n/a	n/a	Left Button	n/a	n/a	S  3
+936.1680000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+937.2540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+937.9360000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+938.5600000000	n/a	n/a	Up Button	n/a	n/a	S  4
+938.7340000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+939.8060000000	n/a	n/a	Fixation	n/a	n/a	S  1
+940.6380000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+942.1900000000	n/a	n/a	No Response	n/a	n/a	S 99
+942.5340000000	n/a	n/a	FB: No Resp	n/a	n/a	S199
+943.6100000000	n/a	n/a	Fixation	n/a	n/a	S  1
+944.4500000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+944.9720000000	n/a	n/a	Left Button	n/a	n/a	S  3
+945.1560000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+946.2280000000	n/a	n/a	Fixation	n/a	n/a	S  1
+946.9300000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+948.0640000000	n/a	n/a	Left Button	n/a	n/a	S  3
+948.4180000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+949.4980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+950.3280000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+951.1440000000	n/a	n/a	Up Button	n/a	n/a	S  4
+951.3680000000	n/a	n/a	FB: Win	n/a	n/a	S201
+952.4500000000	n/a	n/a	Fixation	n/a	n/a	S  1
+953.2300000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+953.8800000000	n/a	n/a	Right Button	n/a	n/a	S  2
+954.0840000000	n/a	n/a	FB: Win	n/a	n/a	S201
+955.1680000000	n/a	n/a	Fixation	n/a	n/a	S  1
+955.8380000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+956.3200000000	n/a	n/a	Up Button	n/a	n/a	S  4
+956.5840000000	n/a	n/a	FB: Win	n/a	n/a	S201
+957.6700000000	n/a	n/a	Fixation	n/a	n/a	S  1
+958.3920000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+959.0240000000	n/a	n/a	Right Button	n/a	n/a	S  2
+959.2080000000	n/a	n/a	FB: Win	n/a	n/a	S201
+960.2880000000	n/a	n/a	Fixation	n/a	n/a	S  1
+961.0800000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+961.7000000000	n/a	n/a	Left Button	n/a	n/a	S  3
+961.8840000000	n/a	n/a	FB: Win	n/a	n/a	S201
+962.9580000000	n/a	n/a	Fixation	n/a	n/a	S  1
+963.6980000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+964.5840000000	n/a	n/a	Up Button	n/a	n/a	S  4
+964.9280000000	n/a	n/a	FB: Win	n/a	n/a	S201
+966.0100000000	n/a	n/a	Fixation	n/a	n/a	S  1
+966.6720000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+967.4080000000	n/a	n/a	Left Button	n/a	n/a	S  3
+967.5720000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+968.6460000000	n/a	n/a	Fixation	n/a	n/a	S  1
+969.4960000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+970.3360000000	n/a	n/a	Right Button	n/a	n/a	S  2
+970.5900000000	n/a	n/a	FB: Win	n/a	n/a	S201
+971.6640000000	n/a	n/a	Fixation	n/a	n/a	S  1
+972.3660000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+973.0400000000	n/a	n/a	Left Button	n/a	n/a	S  3
+973.2240000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+974.3000000000	n/a	n/a	Fixation	n/a	n/a	S  1
+975.1500000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+975.9240000000	n/a	n/a	Up Button	n/a	n/a	S  4
+976.1280000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+977.2020000000	n/a	n/a	Fixation	n/a	n/a	S  1
+977.9420000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+978.9000000000	n/a	n/a	Left Button	n/a	n/a	S  3
+979.1640000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+980.2380000000	n/a	n/a	Fixation	n/a	n/a	S  1
+981.0580000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+981.9840000000	n/a	n/a	Left Button	n/a	n/a	S  3
+982.1480000000	n/a	n/a	FB: Win	n/a	n/a	S201
+983.2220000000	n/a	n/a	Fixation	n/a	n/a	S  1
+983.9840000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+984.7720000000	n/a	n/a	Left Button	n/a	n/a	S  3
+985.1260000000	n/a	n/a	FB: Win	n/a	n/a	S201
+986.2080000000	n/a	n/a	Fixation	n/a	n/a	S  1
+986.9100000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+988.3280000000	n/a	n/a	Up Button	n/a	n/a	S  4
+988.6520000000	n/a	n/a	FB: Win	n/a	n/a	S201
+989.7280000000	n/a	n/a	Fixation	n/a	n/a	S  1
+990.5300000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+991.1760000000	n/a	n/a	Right Button	n/a	n/a	S  2
+991.4500000000	n/a	n/a	FB: Win	n/a	n/a	S201
+992.5300000000	n/a	n/a	Fixation	n/a	n/a	S  1
+993.2120000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+993.9320000000	n/a	n/a	Up Button	n/a	n/a	S  4
+994.1160000000	n/a	n/a	FB: Win	n/a	n/a	S201
+995.1980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+995.8900000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+996.5000000000	n/a	n/a	Up Button	n/a	n/a	S  4
+996.8440000000	n/a	n/a	FB: Win	n/a	n/a	S201
+997.9180000000	n/a	n/a	Fixation	n/a	n/a	S  1
+998.5780000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+999.1840000000	n/a	n/a	Up Button	n/a	n/a	S  4
+999.3580000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1000.4360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1001.1480000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+1002.6760000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1002.9800000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1004.0560000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1004.8860000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+1005.5520000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1005.7860000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1006.8580000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1007.5700000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+1008.0920000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1008.3160000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1009.3920000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1010.2040000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+1010.7880000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1011.0820000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1012.1620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1012.8620000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+1013.5280000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1013.7520000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1014.8300000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1015.5820000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+1016.4360000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1016.7100000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1017.7820000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1018.5940000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+1019.5200000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1019.8540000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1020.9360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1021.6860000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+1022.2880000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1022.6320000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1023.7040000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1024.4060000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+1025.9720000000	n/a	n/a	No Response	n/a	n/a	S 99
+1026.1540000000	n/a	n/a	FB: No Resp	n/a	n/a	S199
+1027.2400000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1027.9120000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+1028.7720000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1029.1160000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1030.1920000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1030.9040000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+1032.2200000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1032.4740000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1033.5440000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1034.2260000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1035.1280000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1035.2920000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1036.3640000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1037.0940000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+1038.6440000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1038.8480000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1039.9340000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1040.6740000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+1041.4000000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1041.6640000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1042.7360000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1043.4460000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+1044.1520000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1044.3460000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1045.4200000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1046.2520000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1047.1880000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1047.4120000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1048.4900000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1049.2400000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1049.8920000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1050.2460000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1051.3260000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1051.9760000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+1052.7880000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1053.0920000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1054.1780000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1054.9280000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+1056.0080000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1056.2220000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1057.2960000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1058.0380000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+1058.4960000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1058.7000000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1059.7820000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1060.5920000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1061.1040000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1061.3980000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1062.4840000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1063.1940000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+1063.9360000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1064.2300000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1065.3020000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1066.0940000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+1067.0200000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1067.1940000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1068.2720000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1069.0020000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1069.8320000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1069.9860000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1071.0560000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1071.7880000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+1072.5160000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1072.7700000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1073.8420000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1074.5240000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+1075.3920000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1075.6160000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1076.6940000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1077.5260000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1078.0200000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1078.2040000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1079.2800000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1080.0720000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1081.3000000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1081.6020000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1082.6820000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1083.4540000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+1084.1600000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1084.5040000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1085.5840000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1086.4360000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+1087.2080000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1087.5200000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1088.6040000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1089.4260000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+1090.5000000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1090.6520000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1091.7400000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1092.5700000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+1093.4040000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1093.6960000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1094.7760000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1095.6160000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1096.5160000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1096.7480000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1097.8280000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1098.5680000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1099.2520000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1099.4440000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1100.5300000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1101.3600000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1101.9600000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1102.1520000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1103.2320000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1104.0020000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1104.4320000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1104.7340000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1105.8160000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1106.5480000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+1107.7320000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1108.0040000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1109.0860000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1109.8080000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1110.5200000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1110.8120000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1111.8880000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1112.5500000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+1113.5200000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1113.7020000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1114.7900000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1115.4920000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+1116.0520000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1116.4040000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1117.4760000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1118.1480000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+1119.1820000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1119.4360000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1120.5120000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1121.2420000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+1122.0220000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1122.3260000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1123.4140000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1124.2560000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+1124.9380000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1125.1920000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1126.2660000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1127.0680000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+1128.1060000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1128.4200000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1129.5020000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1130.1740000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+1131.2380000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1131.5820000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1132.6540000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1133.3760000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1134.6220000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1134.8760000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1135.9560000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1136.7280000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+1137.4260000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1137.7000000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1138.7760000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1139.5260000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+1140.3940000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1140.6880000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1141.7620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1142.4620000000	n/a	n/a	CUE: 123	n/a	n/a	S101
+1142.8740000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1143.0380000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1144.1120000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1144.9540000000	n/a	n/a	CUE: 321	n/a	n/a	S106
+1145.3980000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1145.7220000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1146.7980000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1147.5600000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1148.1700000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1148.4440000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1149.5180000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1150.3280000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+1150.8180000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1151.0820000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1152.1700000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1152.9000000000	n/a	n/a	CUE: 312	n/a	n/a	S105
+1153.3700000000	n/a	n/a	Right Button	n/a	n/a	S  2
+1153.7240000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1154.8040000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1155.4560000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1156.4300000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1156.5940000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1157.6740000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1158.5240000000	n/a	n/a	CUE: 132	n/a	n/a	S102
+1159.2340000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1159.5780000000	n/a	n/a	FB: Loss	n/a	n/a	S200
+1160.6600000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1161.5000000000	n/a	n/a	CUE: 231	n/a	n/a	S104
+1162.6460000000	n/a	n/a	Left Button	n/a	n/a	S  3
+1162.8900000000	n/a	n/a	FB: Win	n/a	n/a	S201
+1163.9620000000	n/a	n/a	Fixation	n/a	n/a	S  1
+1164.6720000000	n/a	n/a	CUE: 213	n/a	n/a	S103
+1165.8580000000	n/a	n/a	Up Button	n/a	n/a	S  4
+1166.1720000000	n/a	n/a	FB: Win	n/a	n/a	S201
